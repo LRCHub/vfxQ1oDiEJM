@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Penny Lane (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-23T03:43:51.713496Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Penny Lane - Remastered 2015",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Penny_Lane_-_Remastered_2015_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Penny Lane (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Penny_Lane_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Penny Lane - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Penny_Lane_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Penny Lane (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Penny_Lane_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Penny Lane [Remastered 2015]",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Penny_Lane_[Remastered_2015]_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Penny Lane (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_Penny_Lane_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Penny Lane - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Penny_Lane_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Penny Lane (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Penny_Lane_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Penny Lane (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Penny_Lane_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Penny Lane (Remastered 2017)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Penny_Lane_(Remastered_2017)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Penny Lane (Remastered 2017)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Penny_Lane_(Remastered_2017)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Penny Lane (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Penny_Lane_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Penny Lane (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Penny_Lane_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Penny Lane (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Penny_Lane_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Penny Lane (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/15_Penny_Lane_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Reeperbahn (Penny Lane) (Remastered)",
+      "artist": "Udo Lindenberg",
+      "has_synced": true,
+      "path": "select/16_Reeperbahn_(Penny_Lane)_(Remastered)_Udo_Lindenberg.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Penny Lane (remastered 2017)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/17_Penny_Lane_(remastered_2017)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Penny Lane (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/18_Penny_Lane_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Penny Lane (Remastered 2015)",
+      "artist": "The Beatles;Al Sirkett",
+      "has_synced": true,
+      "path": "select/19_Penny_Lane_(Remastered_2015)_The_Beatles;Al_Sirkett.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Penny Lane",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Penny_Lane_The_Beatles.txt"
+    }
+  ]
+}
